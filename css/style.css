@@ -88,8 +88,9 @@ img{
   padding: 0 15px;
 }
 
+/* _______________STUDIO_______________ */
 
-/* HEADER */
+/* _______________HEADER_______________ */
 .header__top {
   padding: 24px 0;
   border-bottom: 1px solid var(--color-cornflower);
@@ -148,7 +149,8 @@ img{
   color: var(--color-ocean);
 }
 
-/* HERO */
+
+/* _______________HERO SECTION_______________ */
 .hero {
   background-image: linear-gradient(
     to right,
@@ -165,7 +167,6 @@ img{
   margin-left: auto;
 
 }
-
 
 .order-service {
   font-family: var(--font-roboto);
@@ -188,7 +189,8 @@ img{
   background-color: var(--color-ocean);
 }
 
-/* ADVANTAGES */
+
+/* ______________ADVANTAGES SECTION_____________*/
 .advantages {
   padding: 120px 0;
 }
@@ -226,7 +228,8 @@ img{
   height: 64px;
 }
 
-/* WHAT ARE WE DOING */
+
+/* ___________WHAT ARE WE DOING SECTION____________*/
 .wawd {
   padding-bottom: 120px;
 }
@@ -238,7 +241,8 @@ img{
   gap: 24px;
 }
 
-/* OUR TEAM */
+
+/* ____________OUR TEAM SECTION_____________*/
 .our-team {
   background-color: var(--color-cloud);
   padding: 120px 0;
@@ -281,7 +285,6 @@ img{
   justify-content: center;
 }
 
-
 .our-team-social-media-link{
   border-radius: 50%;
   border: none;
@@ -301,7 +304,7 @@ img{
 
 
 
-/* CUSTOMERS */
+/* ______________CUSTOMERS SECTION____________ */
 .customers{
   padding-top: 130px;
   padding-bottom: 120px;
@@ -314,7 +317,6 @@ img{
   gap: 24px;
 }
 
-
 .customers-link{
     display: flex;
     justify-content: center;
@@ -326,7 +328,6 @@ img{
     border-radius: 4px;
     cursor: pointer;
 }
-
 
 .svg-icons-customers{
   fill: currentColor;
@@ -341,8 +342,7 @@ img{
 }
 
 
-
-/* FOOTER */
+/* ____________FOOTER_____________ */
 .footer {
   background-color: var(--color-navyblue);
   padding: 100px 0;
@@ -413,7 +413,7 @@ img{
 
 
 
-/* PORTFOLIO */
+/* _______________PORTFOLIO________________ */
 .filter-button {
   font-family: var(--font-roboto);
   font-weight: 500;
@@ -446,7 +446,8 @@ img{
               0px 2px 2px rgba(0, 0, 0, 0.12);
 }
 
-/* articles */
+
+/* ____________ARTICLES SECTION____________ */
 .portfolio-articles {
   padding-top: 96px;
   padding-bottom: 120px;
@@ -475,7 +476,6 @@ img{
               0px 1px 1px rgb(46 47 66 / 16%), 
               0px 2px 1px rgb(46 47 66 / 8%);
 }
-
 
 .pa-category {
   color: var(--color-slate);

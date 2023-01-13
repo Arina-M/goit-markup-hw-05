@@ -32,7 +32,7 @@
                 <a
                   href="./index.html"
                   rel="noopener noreferrer nofolow"
-                  class="menu-list-link"
+                  class="menu-list-link current"
                 >
                   Studio
                 </a>
@@ -465,16 +465,22 @@
             </ul>
           </div>
         </div>
-        
       </div>
     </footer>
-    
+
 <!-- modal window -->
-    <div class="backdrop is-hidden" data-modal>
-      <div class="modal">
-        <button class="close-button" type="button" data-modal-close></button>
+<div class="backdrop is-hidden" data-modal>
+  <div class="modal"> 
+    <div class="modal-btn">
+      <button data-modal-close class="modal-close">
+        <svg class="modal-close-icon">
+          <use href="./images/icons.svg#icon-close-modal-button">
+            </use>
+            </svg>
+          </button>
       </div>
-    </div>
+  </div>
+</div>
     <script src="./js/modal.js"></script>
   </body>
 </html>

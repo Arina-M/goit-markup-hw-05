@@ -467,7 +467,7 @@ img{
 
 .footer-social-media-list{
   display: flex;
-  gap: 24px;
+  gap: 16px;
   flex-wrap: wrap;
   margin-top: 16px;
 }
@@ -506,7 +506,7 @@ img{
 
 .svg-icons-footer{
   width: 24px;
-  height: 19.5px;
+  height: 24px;
   fill: var(--color-cloud);
 }
 
